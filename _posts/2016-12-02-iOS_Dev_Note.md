@@ -1,11 +1,11 @@
 ---
 layout: post
-title: iOS开发中的小问题记录
-date: 2016-12-02 
-tag: iOS
+title: 独孤求败，一拳决胜负。
+date: 2018-06-20 
+tag: 动漫
 ---
 
-### NSKeyedArchiver 自定义对象写文件
+#### 一拳超人
 
 
 如果存储的对象类名有变动，则需要设置clasName, 方法为：“setClassName:forClass:”        
@@ -58,6 +58,6 @@ CGRectMake(0, -self.view.bounds.size.height, self.view.bounds.size.width, self.v
 
 
 <br>
-转载请注明：[潘柏信的博客](http://baixin) » [iOS开发中的小问题记录](http://baixin.io/2016/12/iOS_Dev_Note/)  
+转载请注明：[刘的博客](http://baixin) » [一拳超人](http://baixin.io/2016/12/iOS_Dev_Note/)  
 
 
