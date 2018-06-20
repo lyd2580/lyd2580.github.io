@@ -10,7 +10,7 @@ tags: 动漫
 《七龙珠》[1]（日语：ドラゴンボール、DRAGON BALL）是日本漫画家鸟山明的格斗冒险漫画，另有其改编的动画、电影、电子游戏等衍生物品。世界销量3.5亿册，位居第三，日本国内销量1.5亿册，位居第二，并且被誉为日本的“国民漫画”。故事讲述了悟空与伙伴们寻找龙珠的旅途和拯救地球的冒险故事。《七龙珠》[2]原是鸟山明在《少年JUMP》周刊连载的漫画。1986年东映动画公司把早期（1-194篇）的漫画改成一部153集的动画，也是《七龙珠》系列动画中的第一部，故也称七龙珠TV动画。[2] 第二期动画《七龙珠Z》自1992年2月开始播出，集数累加计算。[3] 第三期动画《七龙珠GT》自1996年2月7日到1997年11月19日在富士电视台播出。 全部64集+特别SP篇-悟空外传四星球的证明。                 
 
 <div align="center">
-	<img src="/images/0.jpg" height="300" width="500">  
+	<img src="/images/0.jpg">  
 </div> 
 
 
@@ -522,5 +522,5 @@ sample_submission.to_csv(os.path.join(sub_dir, 'sub01.csv'), index=False)
 
 
 <br>
-转载请注明：[潘柏信的博客](http://baixin) » [使用 TensorFlow 实现神经网络](http://baixin.io/2016/11/neural_networks_using_TensorFlow/)  
+转载请注明：[刘的博客](http://baixin) » [七龙珠](http://baixin.io/2016/11/neural_networks_using_TensorFlow/)  
 
